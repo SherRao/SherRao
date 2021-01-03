@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherrao" alt="sherrao" /> </p>
 
-- 🔭 I’m currently working on [sadbois clothing.](https://sadboisclothing.com)
+- 🔭 I’m currently working on [Digital Frisk](https://digitalfrisk.com)
 
 - 👨‍💻 All of my projects are available at [sherrao.tech](https://sherrao.tech/)
 
