@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nausher Rao</h1>
 <h3 align="center">University student and full-stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherrao" alt="sherrao" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sherrao" alt="sherrao" /> </p>
 
 - 🔭 I’m currently working on [Digital Frisk](https://digitalfrisk.com)
 
