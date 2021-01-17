@@ -26,5 +26,5 @@
 <p align="center">
 <a href="https://twitter.com/sherrao15" target="blank"><img align="center" src="https://sherrao.tech/files/socials/twitter.png" alt="sherrao15" height="16" width="16" /></a>
 <a href="https://linkedin.com/in/nausherrao" target="blank"><img align="center" src="https://sherrao.tech/files/socials/linkedin.png" alt="nausherrao" height="16" width="16" /></a>
-<a href="https://instagram.com/sherrao15" target="blank"><img align="center" src=https://sherrao.tech/files/socials/instagram.png" alt="sherrao15" height="20" width="20" /></a>
+<a href="https://instagram.com/sherrao15" target="blank"><img align="center" src="https://sherrao.tech/files/socials/instagram.png" alt="sherrao15" height="20" width="20" /></a>
 </p>
