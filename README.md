@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sherrao" alt="sherrao" /> </p>
 
-- 🔭 I’m currently working on [Kyle Kashuv ](https://kylekashuv.com)
+- 🔭 I’m currently working on [Kyle Kashuv's Personal Website ](https://kylekashuv.com)
 
 - 👨‍💻 All of my projects are available at [sherrao.tech](https://sherrao.tech/)
 
