@@ -3,9 +3,9 @@
 #### i'm a university student and have been programming since I was 9 years old (big nerd... I know). I love to keep myself busy (maybe a bit too busy) with a bunch of extra curriculars and work stuff.
 
 ##### ❓ what i'm up to?
-- 🏫 President of the [Laurier Computing Society](https://lauriercs.ca)
-- 🤖 President & Founder of [HawkHacks](https://hawkhacks.ca)
-- 🏆 Co-founder & Director of Systems Administration at the [Computing Councils of Canada](https://ccubed.dev)
+- 🏫 President of the **[Laurier Computing Society](https://lauriercs.ca)**
+- 🤖 President & Founder of **[HawkHacks](https://hawkhacks.ca)**
+- 🏆 Co-founder & Director of Systems Administration at the **[Computing Councils of Canada](https://ccubed.dev)**
 
 
 ##### 📗 stuff about me
