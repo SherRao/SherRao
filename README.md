@@ -14,7 +14,7 @@
 
 - 💻 I'm currently working at `Shopify` as a `Frontend Developer`!
 - 📚 I'm currently in my third year of `Computer Science & Applied Maths` at `Wilfrid Laurier University`!
-- ⚙️ Some of my daily programming languages I use: `.js`, `.ts`, `.css`, `.html`, `.java`, `.py`, `.c`
+- ⚙️ Some of the programming languages I've been using daily recently: `.js`, `.ts`, `.css`, `.html`, `.java`, `.py`, `.c`
 
 
 ##### ☎️ hit me up
