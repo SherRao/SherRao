@@ -12,7 +12,7 @@
 - 🇨🇦 Living in `Waterloo, Ontario, Canada`
 - 🇮🇪 Born and raised in `Dublin, Ireland`
 
-- 💻 I'm currently working at `Shopify`!
+- 💻 I'm currently working at `Shopify` as a `Frontend Developer`!
 - 📚 I'm currently in my third year of `Computer Science & Applied Maths` at `Wilfrid Laurier University`!
 - ⚙️ Some of my daily programming languages I use: `.js`, `.ts`, `.css`, `.html`, `.java`, `.py`, `.c`
 
