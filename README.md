@@ -13,13 +13,13 @@
 - 🇮🇪 Born and raised in `Dublin, Ireland`
 
 - 💻 I'm currently working at `Shopify` as a `Frontend Developer`!
-- 📚 I'm currently in my third year of `Computer Science & Applied Maths` at `Wilfrid Laurier University`!
-- ⚙️ Some of the programming languages I've been using daily recently: `.js`, `.ts`, `.css`, `.html`, `.java`, `.py`, `.c`
+- 📚 I'm currently in my fifth and last year of `Computer Science & Applied Maths` at `Wilfrid Laurier University`!
+- ⚙️ Some of the programming languages I've been using daily recently: `.js`, `.ts`, `.css`, `.html`, `.java`, `.py`, `.c`, `.cpp`, and `.rb`
 
 
 ##### ☎️ hit me up
 - 🟣 Instagram: [@sherrao15](https://instagram.com/sherrao15)
 - 🔵 Linkedin: [in/nausherrao](https://linkedin.com/in/nausherrao)
-- ⚫ Discord: [SherRao#0001](https://discord.com/users/190984801929396224)
+- ⚫ Discord: [@_minecraft](https://discord.com/users/190984801929396224)
 
 ##### You can learn about me on my website [here](https://sherrao.tech)! I love to chat about literally anything, feel free to add me on my socials!
